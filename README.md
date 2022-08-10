@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ManaIsrael/clip-board-landing-page
-- Live Site URL:
+- Live Site URL: https://manaisrael.github.io/clip-board-landing-page/
 
 ## My process
 
