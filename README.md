@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/ManaIsrael/clip-board-landing-page
 - Live Site URL:
 
 ## My process
