@@ -69,4 +69,4 @@ google fonts
 
 ## Acknowledgments
 
-I would like to acknowledge My Mother Saint Mary and My Mother who bore me
+I would like to acknowledge My Mother Saint Mary.
